@@ -1,0 +1,10 @@
+Git branch
+git checkout -b kallayya 
+
+git pull origin master 
+git stash
+git pull origin master
+
+git add
+git commit -m "arti"
+git push -u origin master kallayya
