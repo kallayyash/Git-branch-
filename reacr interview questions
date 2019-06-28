@@ -1,0 +1,35 @@
+Questions:
+
+Tell me about yourself - Not Technical.
+Experience in Other Technologies.
+What is promise?
+What is closure?
+Difference between let, const and var.
+What is react flux?
+What is bind action creators? Where and Why it is used?
+What are the standards need to be followed when writing a reducer?
+Is it feasible to write logics in reducer?
+What is pure component?
+What is the local server we are using to run React app?
+What is arrow function? Is it React feature?
+From where will be an action is dispatched? And what are the react life cycle
+How to assign previous state to current state in reducer?
+How to debug the code in react?
+What is class component and functional component?
+What is state and props? Where it is used?
+Architecture used in react.
+Principles of redux.
+Saga effects and saga keywords.
+Difference between Ajax and Saga.
+Data types in javascript.
+How to connect component and store?
+Where to derive business logic in component?
+Why we are using saga?
+Explain virtual DOM.
+Explain hoisting.
+Explain webpack.
+In client side rendering, when to use componentWillMount and componentDidMount.
+Explain the feature you developed already.
+Difference between Actions and Reducers.
+What are all the Component Lifecycle Methods?
+Which component lifecycle method will executes first?
