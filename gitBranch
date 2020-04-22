@@ -8,3 +8,41 @@ git pull origin master
 git add
 git commit -m "arti"
 git push -u origin master kallayya
+
+
+
+Cd mobile-bank
+git checkout ———(task name)
+Vs-npm install
+Cd iOS 
+Pod install
+git add 
+git status
+git commit -m "new products list screen" 
+git config user.name "kallayya" 
+git config user.email kahi@danskeit.co.in
+git commit --amend --reset-author
+git status
+git push
+git pull origin master 
+
+git checkout -- .package-lock.json
+git reset
+Git stash 
+Git stash pop 
+React-native log-android 
+
+git config --global http.proxy
+git config --global --unset http.proxy
+echo $http_proxy 
+
+globalconfig = "/usr/local/etc/npmrc"
+userconfig = "/Users/kallayyahiremath/.npmrc"
+
+cmd+shift+G — go to find 
+cmd+shift+> - unhide files
+
+export PATH=~/Library/Android/sdk/tools:$PATH
+export PATH=~/Library/Android/sdk/platform-tools:$PATH
+adb reverse tcp:8081 tcp:8081
+adb devices
